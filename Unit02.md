@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Metaphysics and Epistemology** <span id="2"></span> 
 *One of the traditional philosophical questions, “What, if anything,
 really exists?” has been addressed in a variety of different time

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Philosophy of Religion** <span id="5"></span> 
 *Some of the most fascinating philosophical questions fall under the
 rubric of the philosophy of religion. In many different time periods,

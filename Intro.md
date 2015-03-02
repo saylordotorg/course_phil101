@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PHIL101: Introduction to Philosophy"
 ---------------------------------------------------------
 

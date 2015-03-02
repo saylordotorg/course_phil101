@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Political Philosophy** <span id="3"></span> 
 *Political philosophy deals with questions about how human societies
 ought to be governed or how they ought to govern themselves. In this

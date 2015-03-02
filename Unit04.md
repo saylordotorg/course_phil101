@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Ethics and Moral Philosophy** <span id="4"></span> 
 *Similarly to political philosophy, ethics also deals with questions of
 how things ought to be rather than how they are. Ethics tends to treat

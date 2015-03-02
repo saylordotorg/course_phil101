@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL101: Introduction to Philosophy"
+course_description: "An introductory study on the fundamental questions and methodologies of philosophical inquiry, including metaphysics, epistemology, political philosophy, ethics and the philosophy of religion."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: What Is Philosophy?** <span id="1"></span> 
 *What is philosophy all about, and why should we study it? The second
 question is easier to answer than the first. Studying philosophy gives
