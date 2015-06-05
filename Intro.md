@@ -152,4 +152,11 @@ need to read this entire glossary straight through.  Instead, save it as
 a bookmark in your web browser for consultation throughout this
 course.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/phil101/Unit01/)
+- [Unit 2](https://legacy.saylor.org/phil101/Unit02/)
+- [Unit 3](https://legacy.saylor.org/phil101/Unit03/)
+- [Unit 4](https://legacy.saylor.org/phil101/Unit04/)
+- [Unit 5](https://legacy.saylor.org/phil101/Unit05/)
+- [Unit 6](https://legacy.saylor.org/phil101/Unit06/)
