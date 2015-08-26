@@ -165,7 +165,7 @@ id="2.2.1"></span> 
 -   **Reading: University of Evansville: Dr. Mike Carson’s “Reflections
     on the *Tao Te Ching*”**
     Link: University of Evansville: Dr. Mike Carson’s [“Reflections on
-    the *Tao Te Ching”*](http://eawc.evansville.edu/essays/carson.htm)
+    the *Tao Te Ching”*](http://web.archive.org/web/20150211102230/http://eawc.evansville.edu/essays/carson.htm)
     (HTML)  
         
      Instructions: Read this webpage for a sense of Daoism’s distinctive
