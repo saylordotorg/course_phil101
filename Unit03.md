@@ -210,7 +210,7 @@ id="3.1.4"></span> 
 -   **Reading: Penn State University: Gregory Smits’ “Early
     Confucianism”**
     Link: Penn State University: Gregory Smits’ [“Early
-    Confucianism”](http://www.saylor.org/site/wp-content/uploads/2013/04/PHIL101-3.1.4-EarlyConfucianism.pdf) (PDF)  
+    Confucianism”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/PHIL101-3.1.4-EarlyConfucianism.pdf) (PDF)  
         
      Instructions: Read this chapter. Pay particular attention to the
     notions of *dao* (way), *xiao* (filial piety), *li* (social
@@ -258,9 +258,9 @@ id="3.2.1"></span> 
 **3.2.2 Rule by Philosopher Kings** <span id="3.2.2"></span> 
 -   **Reading: Plato: *The Republic*, “Book VI” and “Book VII”**
     Links: Plato: *The Republic*, [“Book
-    VI”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.1.2.pdf)
+    VI”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.1.2.pdf)
     (PDF) and [“Book
-    VII”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.1.2.1.pdf)
+    VII”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.1.2.1.pdf)
     (PDF)  
         
      Also available in:  
@@ -351,13 +351,13 @@ id="3.3.2"></span> 
 -   **Reading: Niccolò Machiavelli: *The Prince*: “Chapter XV,” “Chapter
     XVI,” “Chapter XVII,” and “Chapter XXI”**
     Links: Niccolò Machiavelli: *The Prince*: [“Chapter
-    XV”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-1.pdf),
+    XV”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-1.pdf),
     (PDF) [“Chapter
-    XVI”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-2.pdf),
+    XVI”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-2.pdf),
     (PDF) [“Chapter
-    XVII”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-3.pdf),
+    XVII”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-3.pdf),
     (PDF) and [“Chapter
-    XXI”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-4.pdf)
+    XXI”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.2.2-Part-4.pdf)
     (PDF)  
         
      Also available in:  
@@ -454,9 +454,9 @@ id="3.4.2"></span> 
 -   **Reading: Thomas Hobbes: *Leviathan*: “Chapter XIII” and “Chapter
     XIV”**
     Links: Thomas Hobbes: *Leviathan*: [“Chapter
-    XIII”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.3.2-Part-1.pdf) (PDF)
+    XIII”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.3.2-Part-1.pdf) (PDF)
     and [“Chapter
-    XIV”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.3.2-Part-2.pdf)
+    XIV”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.3.2-Part-2.pdf)
     (PDF)  
         
      Also available in:  
@@ -539,7 +539,7 @@ id="3.4.3"></span> 
 
 -   **Assessment: The Saylor Foundation's “Assessment \#4”**
     Link: The Saylor Foundation's [“Assessment
-    \#4”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-4.pdf)
+    \#4”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-4.pdf)
     (PDF)  
       
      Instructions: Click on the link above and follow the instructions
@@ -547,7 +547,7 @@ id="3.4.3"></span> 
     differences between Plato’s, Machiavelli’s, and Hobbes’s theories of
     human nature and how each relates to political power. Check your
     responses against the Saylor Foundation’s [“Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
         
      Completing this assessment should take approximately 2 hours.  
         
@@ -630,7 +630,7 @@ id="3.6.3"></span> 
       
      Also available in:  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-3.4.3.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-3.4.3.pdf)  
         
      Instructions: Click the Flash link and then listen to the lecture
     (approximately 48 minutes). It gives an overview of Marx’s analysis
@@ -685,14 +685,14 @@ id="3.6.4"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment \#5”**
     Link: The Saylor Foundation’s [“Assessment
-    \#5”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-5.pdf) (PDF)  
+    \#5”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-5.pdf) (PDF)  
       
      Instructions: Click on the link above and follow the instructions
     to complete the assessment. It will require you to demonstrate your
     understanding of Marx’s political philosophy and interpret the
     meaning of Confucius’s aphorisms. Check your responses against the
     Saylor Foundation’s [“Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
         
      Completing this assessment should take approximately 2 hours.  
         

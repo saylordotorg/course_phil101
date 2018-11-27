@@ -83,7 +83,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
   
  √    Have completed
 [ENGL001](http://www.saylor.org/courses/engl001/ "ENGL001") and
