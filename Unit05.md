@@ -117,14 +117,14 @@ Upon successful completion of this unit, the student will be able to:
      [Adobe Flash, QuickTime, or
     mp3](http://oyc.yale.edu/philosophy/phil-176/lecture-3)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101KaganTranscript1.pdf)
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101KaganTranscript1.pdf)
     (Transcript of Lecture)  
       
      The Second Lecture is Also Available In:  
      [Adobe Flash, QuickTime, or
     mp3](http://oyc.yale.edu/philosophy/phil-176/lecture-4)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101KaganTranscript2.pdf)
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101KaganTranscript2.pdf)
     (Transcript of Lecture)  
       
      Instructions: Click on the links above and listen to the first 8
@@ -147,7 +147,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1.2 Plato’s Phaedo** <span id="5.1.2"></span> 
 -   **Reading: Plato: “Phaedo”**
     Link: Plato’s
-    *[“Phaedo”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.1.2.pdf) *(PDF)  
+    *[“Phaedo”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.1.2.pdf) *(PDF)  
         
      Instructions: Read the passage. *Phaedo *was written as an account
     of Socrates’s last moments before his execution, as related by his
@@ -210,13 +210,13 @@ Upon successful completion of this unit, the student will be able to:
      [Adobe Flash, QuickTime, or
     Mp3](http://oyc.yale.edu/philosophy/death/content/sessions/lecture04.html)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101KaganTranscript5.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101KaganTranscript5.pdf)  
       
      The second lecture is also available in:  
      [Adobe Flash, QuickTime, or
     Mp3](http://oyc.yale.edu/philosophy/death/content/sessions/lecture06.html)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101Kagan12.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101Kagan12.pdf)  
       
      Instructions: Click on the links above and view these lectures on
     Plato’s *Phaedo* and Dr. Kagan’s exegesis of the Platonic notion of
@@ -241,7 +241,7 @@ id="5.2.1"></span> 
 -   **Reading: Virginia Tech: Dr. David Burr’s Saint Anselm:
     “*Proslogion*”**
     Link: Virginia Tech: Dr. David Burr’s Saint Anselm:
-    *[“Proslogion”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.2.1.pdf)* (PDF)  
+    *[“Proslogion”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.2.1.pdf)* (PDF)  
         
      Also available in:  
      [HTML](http://www.history.vt.edu/Burr/Anselm.html)  
@@ -282,7 +282,7 @@ id="5.2.1"></span> 
     “Meditation III”**
     Link: René Descartes’s *Meditations on First Philosophy*:
     [“Meditation
-    III”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.2.3.pdf) (PDF)  
+    III”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.2.3.pdf) (PDF)  
       
      Also available in:  
      [HTML](http://www.wright.edu/cola/descartes/meditation3.html)  
@@ -309,7 +309,7 @@ id="5.2.4"></span> 
     Rae Langton: “A Study Guide to Descartes’ *Meditations*”**
     Link: Massachusetts Institute of Technology OpenCourseWare: Dr. Rae
     Langton: “[A Study Guide to
-    Descartes’ *Meditations*](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.3.pdf)” (PDF)  
+    Descartes’ *Meditations*](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.3.pdf)” (PDF)  
         
      Instructions: Click the PDF link and then read pages 30 - 35 for a
     brief summary of the argument from Descartes’s third mediation. Dr.
@@ -350,7 +350,7 @@ id="5.2.4"></span> 
 id="5.2.5"></span> 
 -   **Reading: Blaise Pascal: “A Selection from *Pensées*”**
     Link: Blaise Pascal’s [“A Selection
-    from *Pensées*”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.2.5.pdf) (PDF)  
+    from *Pensées*”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.2.5.pdf) (PDF)  
         
      Also available in:  
 
@@ -404,14 +404,14 @@ id="5.2.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment \#7"**
     Link: The Saylor Foundation’s [“Assessment
-    \#7”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-7.pdf) (PDF)  
+    \#7”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-7.pdf) (PDF)  
         
      Instructions: Click on the link above to download the PDF. Follow
     the instructions to complete the assessment. This assessment will
     test your comprehension of the three arguments for God’s existence
     presented in this section and will ask you to evaluate them. Check
     your responses against the Saylor Foundation’s [“Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
         
      Completing this assessment should take approximately 2 hours.  
       
@@ -459,7 +459,7 @@ Values** <span id="5.3.1"></span> 
 id="5.3.2"></span> 
 -   **Reading: Friedrich Nietzsche’s *The Joyful Wisdom***
     Link: Friedrich Nietzsche’s *[The Joyful
-    Wisdom](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.2.pdf) *(PDF)  
+    Wisdom](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.2.pdf) *(PDF)  
         
      Also available in:  
 
@@ -482,38 +482,38 @@ id="5.3.3"></span> 
     Philosophy of the Future***
     Link: Friedrich Nietzsche’s *[Beyond Good and Evil: Prelude to a
     Philosophy of the
-    Future](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3.pdf)*
+    Future](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3.pdf)*
     (PDF)  
         
      [Chapter
-    I](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-1.pdf)
+    I](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-1.pdf)
     (PDF)  
      [Chapter
-    II](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-2.pdf)
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-2.pdf)
     (PDF)  
      [Chapter
-    III](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-3.pdf)
+    III](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-3.pdf)
     (PDF)  
      [Chapter
-    IV](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-4.pdf)
+    IV](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-4.pdf)
     (PDF)  
      [Chapter
-    V](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-5.pdf)
+    V](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-5.pdf)
     (PDF)  
      [Chapter
-    VI](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-6.pdf)
+    VI](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-6.pdf)
     (PDF)  
      [Chapter
-    VII](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-7.pdf)
+    VII](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-7.pdf)
     (PDF)  
      [Chapter
-    VIII](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-8.pdf)
+    VIII](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-8.pdf)
     (PDF)  
      [Chapter
-    IX](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-9.pdf)
+    IX](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-9.pdf)
     (PDF)  
      [Chapter
-    X](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-10.pdf)
+    X](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-5.3.3-Part-10.pdf)
     (PDF)  
         
      Also available in:  
@@ -643,13 +643,13 @@ Schopenhauer** <span id="5.5"></span> 
 
 -   **Assessment: The Saylor Foundation's: “Assessment \#8”**
     Link: The Saylor Foundation's: [“Assessment
-    \#8”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-8.pdf) (PDF)  
+    \#8”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-8.pdf) (PDF)  
       
      Instructions: This assessment will ask you to explain how Plato and
     Buddha differ in their views of what the soul is and, given that,
     what the death of the body would entail for a human being.  Check
     your essays against the [“Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf)  
       
      Completing this assessment should take approximately 2 hours.  
       

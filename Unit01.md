@@ -186,7 +186,7 @@ Russell** <span id="1.1.4"></span> 
     XV: The Value of Philosophy”**
     Link: Bertrand Russell’s *The Problems of Philosophy*: [“Chapter XV:
     The Value of
-    Philosophy](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-1.1.4.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-1.1.4.pdf)
+    Philosophy](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-1.1.4.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-1.1.4.pdf)
     (PDF)  
         
       
@@ -267,7 +267,7 @@ id="1.2.3"></span> 
     for Philosophical Writing”**
     Link: University of Notre Dame: Dr. William Ramsey: [“Guidelines for
     Philosophical
-    Writing](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-1.2.3.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-1.2.3.pdf)
+    Writing](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-1.2.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-1.2.3.pdf)
     (PDF)  
         
      Also available in:  
@@ -320,13 +320,13 @@ id="1.2.4"></span> 
 **Unit 1: Assessment** <span id="1.3"></span> 
 -   **Assessment: The Saylor Foundation’s: “Assessment \#1”**
     Link: The Saylor Foundation’s: [“Assessment
-    \#1”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-1.pdf)
+    \#1”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-1.pdf)
     (PDF)  
         
      Instructions: This assessment will ask you to interact with a
     variety of philosophical arguments as to the importance and value of
     philosophy.  Check your
-    responses [here](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
+    responses [here](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
       
      Completing this assessment should take approximately 1 hour.  
         

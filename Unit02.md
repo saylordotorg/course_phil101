@@ -377,9 +377,9 @@ id="2.4.2"></span> 
     “Meditation I.” and “Meditation II.”**
     Links: René Descartes: *Meditations on First Philosophy*:
     [“Meditation
-    I](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.2.1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.2.1.pdf)
+    I](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.2.1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.2.1.pdf)
     (PDF) and [“Meditation
-    II](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.2.2.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.2.2.pdf)
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.2.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.2.2.pdf)
     (PDF)  
         
      Also available in:  
@@ -434,7 +434,7 @@ id="2.4.3"></span> 
     Rae Langton: “A Study Guide to Descartes’ *Meditations”***
     Link: Massachusetts Institute of Technology OpenCourseWare: Dr. Rae
     Langton: [“A Study Guide to Descartes’
-    *Meditations*”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.3.3.pdf)
+    *Meditations*”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.3.3.pdf)
     (PDF)  
         
      Instructions: Click the PDF link to open the PDF and then read
@@ -482,7 +482,7 @@ id="2.4.3"></span> 
     “Book I, Chapter II”**
     Link: John Locke: *An Essay Concerning Human Understanding*: [“Book
     I, Chapter
-    II](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.4.2.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.4.2.pdf)
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.4.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.4.2.pdf)
     (PDF)  
         
      Also available in:  
@@ -530,13 +530,13 @@ id="2.4.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s: “Assessment \#2”**
     Link: The Saylor Foundation’s: [“Assessment
-    \#2”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-2.pdf)
+    \#2”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-2.pdf)
     (PDF)  
         
      Instructions: This assessment will evaluate your understanding of
     Plato’s metaphysics and what is at stake between Descartes and
     Locke. Check your responses against the [Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
         
      Completing this assessment should take approximately 1 hour.  
       
@@ -661,7 +661,7 @@ Impossible** <span id="2.7.2"></span> 
     “Preamble on the Peculiarities of All Metaphysical Cognition”**
     Link: Immanuel Kant: *Prolegomena to Any Future Metaphysics*:
     [“Preamble on the Peculiarities of All Metaphysical
-    Cognition”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-2.5.2.pdf)
+    Cognition”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-2.5.2.pdf)
     (PDF)  
         
      Also available in:  
@@ -749,7 +749,7 @@ id="2.7.5"></span> 
 **Unit 2: Assessment** <span id="2.8"></span> 
 -   **Assessment: The Saylor Foundation’s “Assessment \#3”**
     Link: The Saylor Foundation’s [“Assessment
-    \#3”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-3.pdf)
+    \#3”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-3.pdf)
     (PDF)  
         
      Instructions: Click on the link above and follow the instructions
@@ -757,7 +757,7 @@ id="2.7.5"></span> 
     understanding of Kant’s Copernican revolution as well as the
     similarities and differences between Plato’s philosophy and Daoism.
     Check your responses
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
         
      Completing this assessment should take approximately 2 hours.  
         

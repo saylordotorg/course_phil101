@@ -171,9 +171,9 @@ id="4.1.2"></span> 
 **4.2.2 Aristotle’s Virtue Ethics** <span id="4.2.2"></span> 
 -   **Reading: Aristotle’s Nicomachean Ethics: “Book I” and “Book II”**
     Links: Aristotle’s *Nicomachean Ethics*: [“Book
-    I”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-4.2.2-Part-1.pdf)
+    I”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-4.2.2-Part-1.pdf)
     (PDF) and [“Book
-    II”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-4.2.2-Part-2.pdf)
+    II”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-4.2.2-Part-2.pdf)
     (PDF)  
         
      Also available in:  
@@ -260,7 +260,7 @@ id="4.2.3"></span> 
     Link: Immanuel Kant’s *Fundamental Principles of the Metaphysics of
     Morals*: [“Second Section: Transition from Popular Moral Philosophy
     to the Metaphysic of
-    Morals”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-4.3.2.pdf) (PDF)  
+    Morals”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-4.3.2.pdf) (PDF)  
         
      Also available in:  
 
@@ -322,7 +322,7 @@ id="4.3.3"></span> 
     Utilitarianism Is”**
     Link: John Stuart Mill’s *Utilitarianism*: [“Chapter II: What
     Utilitarianism
-    Is”](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-4.4.2.pdf) (PDF)  
+    Is”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-4.4.2.pdf) (PDF)  
         
       
      Instructions: Read this chapter from Mill’s major ethical work.
@@ -394,7 +394,7 @@ id="4.5.1"></span> 
         
      Also available in:  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/PHIL101-4.5.1.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/PHIL101-4.5.1.pdf)  
         
      Instructions: Click on the link above and then listen to this
     lecture. Dr. Shapiro examines the nexus of philosophical ideas about
@@ -440,7 +440,7 @@ Babies** <span id="4.5.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Assessment \#6”**
     Link: The Saylor Foundation’s [“Assessment
-    \#6”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-6.pdf) (PDF)  
+    \#6”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-6.pdf) (PDF)  
       
      Instructions: Click on the link above and follow the instructions
     to complete the assessment. This assessment will test your
@@ -448,7 +448,7 @@ Babies** <span id="4.5.2"></span> 
     ethical theories. You should also be able to identify which one
     would be best applied in a given example case. Check your responses
     against the Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/PHIL101-Assessment-Rubric.pdf).  
         
      Completing this assessment should take approximately 2 hours.  
         
